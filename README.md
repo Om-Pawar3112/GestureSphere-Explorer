@@ -44,7 +44,7 @@ The system detects hand landmarks using MediaPipe, processes gesture data using 
 
 ## 📂 Project Structure
 
-```
+```text
 GestureSphere-Explorer/
 │── assets/
 │── model/
